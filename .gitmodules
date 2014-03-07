@@ -1,0 +1,9 @@
+[submodule "plugins/scrum2b"]
+	path = plugins/scrum2b
+	url = https://github.com/scrum2b/scrum2b
+[submodule "plugins/redmine_helpdesk"]
+        path = plugins/redmine_helpdesk
+        url = https://github.com/jfqd/redmine_helpdesk
+[submodule "plugins/redmine_better_gantt_chart"]
+        path = plugins/redmine_better_gantt_chart
+        url = https://github.com/kulesa/redmine_better_gantt_chart
