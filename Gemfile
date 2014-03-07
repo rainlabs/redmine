@@ -8,6 +8,8 @@ gem "builder", ">= 3.0.4"
 gem "request_store", "1.0.5"
 gem "mime-types"
 gem "rbpdf", "~> 1.18.1"
+gem "awesome_nested_set", "2.1.6"
+gem "unicorn"
 
 # Optional gem for LDAP authentication
 group :ldap do
