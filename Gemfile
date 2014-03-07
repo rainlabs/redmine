@@ -7,6 +7,7 @@ gem "fastercsv", "~> 1.5.0", :platforms => [:mri_18, :mingw_18, :jruby]
 gem "builder", "3.0.0"
 gem "mime-types"
 gem "awesome_nested_set", "2.1.6"
+gem "unicorn"
 
 # Optional gem for LDAP authentication
 group :ldap do
