@@ -8,6 +8,8 @@ Redmine with plugins and themes
 - Plugin redmine_better_gantt_chart: https://github.com/kulesa/redmine_better_gantt_chart
 - Plugin scrum2b: https://github.com/scrum2b/scrum2b
 - Plugin redmine_dashboard: https://github.com/jgraichen/redmine_dashboard
+- Plugin redmine_code_review: https://bitbucket.org/haru_iida/redmine_code_review
+- Plugin redmine_bitbucket: https://bitbucket.org/steveqx/redmine_bitbucket
 
 INSTALL
 -------
