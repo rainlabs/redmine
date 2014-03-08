@@ -7,6 +7,7 @@ Redmine with plugins and themes
 - Plugin redmine_helpdesk: https://github.com/jfqd/redmine_helpdesk
 - Plugin redmine_better_gantt_chart: https://github.com/kulesa/redmine_better_gantt_chart
 - Plugin scrum2b: https://github.com/scrum2b/scrum2b
+- Plugin redmine_dashboard: https://github.com/jgraichen/redmine_dashboard
 
 INSTALL
 -------
