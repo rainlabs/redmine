@@ -10,3 +10,6 @@
 [submodule "plugins/redmine_dashboard"]
         path = plugins/redmine_dashboard
         url = https://github.com/jgraichen/redmine_dashboard
+[submodule "plugins/redmine_redirect_to_after_login"]
+	path = plugins/redmine_redirect_to_after_login
+	url = https://github.com/undx/redmine_redirect_to_after_login

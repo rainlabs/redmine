@@ -28,6 +28,7 @@ God.watch do |w|
     start.condition(:process_running) do |c|
       c.interval = 5.seconds
       c.running = false
+      c.notify = {:contacts => ['rain'], :priority => 1, :category => 'redmine'}
     end
   end
  
@@ -58,6 +59,7 @@ God.watch do |w|
   w.transition(:up, :restart) do |on|
     on.condition(:file_touched) do |c|
       c.path = File.join(ENV['RAILS_ROOT'], 'tmp', 'restart.touch')
+      c.notify = {:contacts => ['rain'], :priority => 1, :category => 'redmine'}
     end
   end
  
