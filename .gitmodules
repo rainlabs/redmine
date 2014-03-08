@@ -7,3 +7,6 @@
 [submodule "plugins/redmine_better_gantt_chart"]
         path = plugins/redmine_better_gantt_chart
         url = https://github.com/kulesa/redmine_better_gantt_chart
+[submodule "plugins/redmine_dashboard"]
+        path = plugins/redmine_dashboard
+        url = https://github.com/jgraichen/redmine_dashboard
