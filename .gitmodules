@@ -13,3 +13,6 @@
 [submodule "plugins/redmine_redirect_to_after_login"]
 	path = plugins/redmine_redirect_to_after_login
 	url = https://github.com/undx/redmine_redirect_to_after_login
+[submodule "plugins/redmine_bitbucket"]
+	path = plugins/redmine_bitbucket
+	url = https://bitbucket.org/steveqx/redmine_bitbucket.git
