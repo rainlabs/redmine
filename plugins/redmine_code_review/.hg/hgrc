@@ -1,0 +1,2 @@
+[paths]
+default = ssh://hg@bitbucket.org/haru_iida/redmine_code_review

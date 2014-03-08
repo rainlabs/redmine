@@ -18,6 +18,7 @@
 /lib/redmine/scm/adapters/mercurial/redminehelper.pyo
 /log/*.log*
 /log/mongrel_debug
+/bitbucket_repos
 #/plugins/*
 !/plugins/README
 /public/dispatch.*
